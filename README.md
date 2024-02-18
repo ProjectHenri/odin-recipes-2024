@@ -6,4 +6,4 @@
     <li>Practiced using the command line and git to create and work on the project</li>
     <li>Practiced working with VSCode</li>
 </ul>
-<h2>LIVE DEMO <a href="https://projecthenri.github.io/odin-recipes">ODIN RECIPES</a></h2>
+<h2>LIVE DEMO: <a href="https://projecthenri.github.io/odin-recipes">ODIN RECIPES</a></h2>
