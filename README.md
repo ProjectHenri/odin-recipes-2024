@@ -1,1 +1,2 @@
-# odin-recipes
+<h1>Odin recipes</h1>
+<p>A basic recipe website built with HTML. The website consists of a main index page which has links to a few recipes. This project was done as a part of The Odin Project's curriculum</p>
